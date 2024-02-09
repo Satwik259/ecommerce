@@ -1,0 +1,16 @@
+.set-filters{
+    width:200px;
+    background-color: lightcyan;
+    
+
+}
+.Avengers{
+    color:indigo;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+
+}
+#tom{
+    font-weight: bolder;
+}

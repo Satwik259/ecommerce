@@ -1,0 +1,10 @@
+.set-correctly{
+   display: flex; 
+}
+.box-1{
+   text-align: center;
+}
+.bomms{
+   max-width:auto ;
+   max-height:80px ;
+}

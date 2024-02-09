@@ -1,0 +1,38 @@
+ .imag{
+    max-width:100px;
+    max-height:160px;
+     
+ }
+ .allprod{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    margin: 10px;
+ }
+
+.card-style{
+    display: flex; 
+     margin-right:10px;
+    padding:8px 8px 8px 8px ; 
+    margin:5px 5px 5px 5px  ; 
+    background-color:#1D63FF;
+    color:whitesmoke ;
+     
+ }
+ .text-adjust{
+    padding-left:10px ;
+ } 
+ .button-1{
+   background-color: lightpink;
+   color:black;
+   border-radius: 7px;
+   font-size:0.9rem ;
+   border:none ;
+   font-weight:1000;
+   padding:8px ;
+
+ }
+ .button-1:hover{
+   background-color: rgba(255, 217, 0, 0.581);
+   transition: all .4s ease 0s;
+
+ }
